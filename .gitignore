@@ -33,6 +33,10 @@ bld/
 
 .scalafmt.conf
 
+project/
+target/
+.bloop/
+
 # MSTest test Results
 [Tt]est[Rr]esult*/
 [Bb]uild[Ll]og.*

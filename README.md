@@ -24,3 +24,7 @@ simple start of scala and spark
  - JAVA_HOME => (JDK directory)
  - Launch Spark (C:\spark\bin> spark-shell)
  - http://localhost:4040
+
+## Start Spark Project
+- click (import build) in vs code
+- or run (sbt package) on terminal with root of project
